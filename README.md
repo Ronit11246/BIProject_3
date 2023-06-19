@@ -26,3 +26,10 @@ The Sales Analysis and Inventory Management Dashboard provides insights into sal
 2. Retailer Analysis: The Retailer Analysis Dashboard showcases the number of items for each category and facilitates the exploration of top and bottom items by stock unit. It also provides insights into the quality rating by category and vendor. This analysis helps identify vendors associated with the Produce category, such as Earthworks, Highland, and Indiewealth Corp. Additionally, the top item in the Produce category is identified as Del Monte No sugar added, which can be leveraged for targeted marketing and sales strategies.
 
 **The Sales Analysis and Inventory Management Dashboard GitHub repository contains the code, data, and files necessary to reproduce the dashboards and explore the dataset further.**
+
+![1685969670333_page-0004](https://github.com/Ronit11246/BIProject_3/assets/108767208/519af608-6d46-4621-a0b1-7688c502b728)
+![1685969670333_page-0003](https://github.com/Ronit11246/BIProject_3/assets/108767208/d77fa785-5b81-43e4-8a72-84f34d2829fb)
+![1685969670333_page-0002](https://github.com/Ronit11246/BIProject_3/assets/108767208/efbb6d76-04ee-4efe-b7f8-85d72ccb09d6)
+![1685969670333_page-0001](https://github.com/Ronit11246/BIProject_3/assets/108767208/12ddf817-1c8a-49b1-864c-98a5282c586b)
+
+
